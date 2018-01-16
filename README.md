@@ -1,5 +1,8 @@
 # Kata: TDD Prime Numbers with C#
 
+Command for project creation
+
+```dos
 mkdir _tddPN
 cd _tddPN
 md PrimeNumbers PrimeNumbers.Tests
@@ -16,4 +19,4 @@ cd ..
 dotnet new sln --name PrimeNumbers
 dotnet sln add .\PrimeNumbers\PrimeNumbers.csproj
 dotnet sln add .\PrimeNumbers.Tests\PrimeNumbers.Tests.csproj
-
+```dos
