@@ -19,4 +19,4 @@ cd ..
 dotnet new sln --name PrimeNumbers
 dotnet sln add .\PrimeNumbers\PrimeNumbers.csproj
 dotnet sln add .\PrimeNumbers.Tests\PrimeNumbers.Tests.csproj
-```dos
+```
